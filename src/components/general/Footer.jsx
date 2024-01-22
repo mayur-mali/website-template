@@ -10,7 +10,7 @@ function Footer() {
         <div className="xl:grid xl:grid-cols-3 xl:gap-8">
           <div className="grid grid-cols-2 gap-8 xl:col-span-2">
             <div className="md:grid md:grid-cols-2 md:gap-8 text-white">
-              Logo
+              Edviron
             </div>
             <div className="md:grid md:grid-cols-2 md:gap-8">
               <div>
