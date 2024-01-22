@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import GetStartedButton from "../Button/GetStartedButton";
+import GetStartedButton from "../Button/GetStartedButton.jsx";
 
 function Navbar() {
   const [showMobileMenu, setShowMobileMenu] = useState(false);

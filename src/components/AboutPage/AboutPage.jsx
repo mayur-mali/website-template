@@ -1,5 +1,5 @@
 import React from "react";
-import GetStartedButton from "../Button/GetStartedButton";
+import GetStartedButton from "../Button/GetStartedButton.jsx";
 
 function AboutPage() {
   return (

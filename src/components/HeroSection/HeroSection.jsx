@@ -1,8 +1,8 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Counter from "./Counter";
+import Counter from "./Counter.jsx";
 import statitics from "../../assets/2910221_509.png";
-import GetStartedButton from "../Button/GetStartedButton";
+import GetStartedButton from "../Button/GetStartedButton.jsx";
 function HeroSection() {
   return (
     <>
