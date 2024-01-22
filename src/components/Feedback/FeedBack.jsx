@@ -68,12 +68,13 @@ function FeedBack() {
                         <path d="M9.352 4C4.456 7.456 1 13.12 1 19.36c0 5.088 3.072 8.064 6.624 8.064 3.36 0 5.856-2.688 5.856-5.856 0-3.168-2.208-5.472-5.088-5.472-.576 0-1.344.096-1.536.192.48-3.264 3.552-7.104 6.624-9.024L9.352 4zm16.512 0c-4.8 3.456-8.256 9.12-8.256 15.36 0 5.088 3.072 8.064 6.624 8.064 3.264 0 5.856-2.688 5.856-5.856 0-3.168-2.304-5.472-5.184-5.472-.576 0-1.248.096-1.44.192.48-3.264 3.456-7.104 6.528-9.024L25.864 4z"></path>
                       </svg>
                       <p className="relative">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Nemo expedita voluptas culpa sapiente alias molestiae.
-                        Numquam corrupti in laborum sed rerum et corporis.
+                        "Edviron's payment gateway has revolutionized our fee
+                        collection process. Efficient, secure, and incredibly
+                        user-friendly. Our parents appreciate the convenience it
+                        brings.
                       </p>
                     </div>
-                    <footer className="mt-8">
+                    {/*<footer className="mt-8">
                       <div className="flex">
                         <div className="flex-shrink-0 inline-flex rounded-full border-2 border-white">
                           <img
@@ -83,15 +84,10 @@ function FeedBack() {
                           />
                         </div>
                         <div className="ml-4">
-                          <div className="text-base font-medium text-white">
-                            Judith Black
-                          </div>
-                          <div className="text-base font-medium text-indigo-200">
-                            CEO, Tuple
-                          </div>
+                          <div className="text-base font-medium text-white"></div>
                         </div>
                       </div>
-                    </footer>
+        </footer>*/}
                   </blockquote>
                 </div>
               </section>
@@ -112,30 +108,12 @@ function FeedBack() {
                         <path d="M9.352 4C4.456 7.456 1 13.12 1 19.36c0 5.088 3.072 8.064 6.624 8.064 3.36 0 5.856-2.688 5.856-5.856 0-3.168-2.208-5.472-5.088-5.472-.576 0-1.344.096-1.536.192.48-3.264 3.552-7.104 6.624-9.024L9.352 4zm16.512 0c-4.8 3.456-8.256 9.12-8.256 15.36 0 5.088 3.072 8.064 6.624 8.064 3.264 0 5.856-2.688 5.856-5.856 0-3.168-2.304-5.472-5.184-5.472-.576 0-1.248.096-1.44.192.48-3.264 3.456-7.104 6.528-9.024L25.864 4z"></path>
                       </svg>
                       <p className="relative">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Nemo expedita voluptas culpa sapiente alias molestiae.
-                        Numquam corrupti in laborum sed rerum et corporis.
+                        Using Edviron's payment gateway has significantly
+                        reduced our administrative burden. The system is robust,
+                        and the support from their team is commendable. A
+                        game-changer for us!
                       </p>
                     </div>
-                    <footer className="mt-8">
-                      <div className="flex">
-                        <div className="flex-shrink-0 inline-flex rounded-full border-2 border-white">
-                          <img
-                            className="h-12 w-12 rounded-full"
-                            src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80"
-                            alt=""
-                          />
-                        </div>
-                        <div className="ml-4">
-                          <div className="text-base font-medium text-white">
-                            Judith Black
-                          </div>
-                          <div className="text-base font-medium text-indigo-200">
-                            CEO, Tuple
-                          </div>
-                        </div>
-                      </div>
-                    </footer>
                   </blockquote>
                 </div>
               </section>
@@ -156,30 +134,12 @@ function FeedBack() {
                         <path d="M9.352 4C4.456 7.456 1 13.12 1 19.36c0 5.088 3.072 8.064 6.624 8.064 3.36 0 5.856-2.688 5.856-5.856 0-3.168-2.208-5.472-5.088-5.472-.576 0-1.344.096-1.536.192.48-3.264 3.552-7.104 6.624-9.024L9.352 4zm16.512 0c-4.8 3.456-8.256 9.12-8.256 15.36 0 5.088 3.072 8.064 6.624 8.064 3.264 0 5.856-2.688 5.856-5.856 0-3.168-2.304-5.472-5.184-5.472-.576 0-1.248.096-1.44.192.48-3.264 3.456-7.104 6.528-9.024L25.864 4z"></path>
                       </svg>
                       <p className="relative">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Nemo expedita voluptas culpa sapiente alias molestiae.
-                        Numquam corrupti in laborum sed rerum et corporis.
+                        We've had a fantastic experience with Edviron's payment
+                        gateway. The interface is intuitive, and the real-time
+                        tracking features provide valuable insights. Highly
+                        recommended!
                       </p>
                     </div>
-                    <footer className="mt-8">
-                      <div className="flex">
-                        <div className="flex-shrink-0 inline-flex rounded-full border-2 border-white">
-                          <img
-                            className="h-12 w-12 rounded-full"
-                            src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80"
-                            alt=""
-                          />
-                        </div>
-                        <div className="ml-4">
-                          <div className="text-base font-medium text-white">
-                            Judith Black
-                          </div>
-                          <div className="text-base font-medium text-indigo-200">
-                            CEO, Tuple
-                          </div>
-                        </div>
-                      </div>
-                    </footer>
                   </blockquote>
                 </div>
               </section>
@@ -200,211 +160,18 @@ function FeedBack() {
                         <path d="M9.352 4C4.456 7.456 1 13.12 1 19.36c0 5.088 3.072 8.064 6.624 8.064 3.36 0 5.856-2.688 5.856-5.856 0-3.168-2.208-5.472-5.088-5.472-.576 0-1.344.096-1.536.192.48-3.264 3.552-7.104 6.624-9.024L9.352 4zm16.512 0c-4.8 3.456-8.256 9.12-8.256 15.36 0 5.088 3.072 8.064 6.624 8.064 3.264 0 5.856-2.688 5.856-5.856 0-3.168-2.304-5.472-5.184-5.472-.576 0-1.248.096-1.44.192.48-3.264 3.456-7.104 6.528-9.024L25.864 4z"></path>
                       </svg>
                       <p className="relative">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Nemo expedita voluptas culpa sapiente alias molestiae.
-                        Numquam corrupti in laborum sed rerum et corporis.
+                        Edviron's payment gateway has streamlined our financial
+                        operations. It's reliable, secure, and the detailed
+                        reporting features help us stay organized. An excellent
+                        solution for schools
                       </p>
                     </div>
-                    <footer className="mt-8">
-                      <div className="flex">
-                        <div className="flex-shrink-0 inline-flex rounded-full border-2 border-white">
-                          <img
-                            className="h-12 w-12 rounded-full"
-                            src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80"
-                            alt=""
-                          />
-                        </div>
-                        <div className="ml-4">
-                          <div className="text-base font-medium text-white">
-                            Judith Black
-                          </div>
-                          <div className="text-base font-medium text-indigo-200">
-                            CEO, Tuple
-                          </div>
-                        </div>
-                      </div>
-                    </footer>
                   </blockquote>
                 </div>
               </section>
             </div>
           </SwiperSlide>
-          <SwiperSlide>
-            <div className="bg-[#0b0d33] hover:bg-[#142a5c] border border-[#94f2fc48] rounded">
-              <section>
-                <div className=" md:flex md:flex-col p-8 md:border-r md:border-indigo-900">
-                  <blockquote className="mt-6 md:flex-grow md:flex md:flex-col">
-                    <div className="relative text-lg font-medium text-white md:flex-grow">
-                      <svg
-                        className="absolute top-0 left-0 transform -translate-x-3 -translate-y-2 h-8 w-8 text-indigo-600"
-                        fill="currentColor"
-                        viewBox="0 0 32 32"
-                        aria-hidden="true"
-                      >
-                        <path d="M9.352 4C4.456 7.456 1 13.12 1 19.36c0 5.088 3.072 8.064 6.624 8.064 3.36 0 5.856-2.688 5.856-5.856 0-3.168-2.208-5.472-5.088-5.472-.576 0-1.344.096-1.536.192.48-3.264 3.552-7.104 6.624-9.024L9.352 4zm16.512 0c-4.8 3.456-8.256 9.12-8.256 15.36 0 5.088 3.072 8.064 6.624 8.064 3.264 0 5.856-2.688 5.856-5.856 0-3.168-2.304-5.472-5.184-5.472-.576 0-1.248.096-1.44.192.48-3.264 3.456-7.104 6.528-9.024L25.864 4z"></path>
-                      </svg>
-                      <p className="relative">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Nemo expedita voluptas culpa sapiente alias molestiae.
-                        Numquam corrupti in laborum sed rerum et corporis.
-                      </p>
-                    </div>
-                    <footer className="mt-8">
-                      <div className="flex">
-                        <div className="flex-shrink-0 inline-flex rounded-full border-2 border-white">
-                          <img
-                            className="h-12 w-12 rounded-full"
-                            src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80"
-                            alt=""
-                          />
-                        </div>
-                        <div className="ml-4">
-                          <div className="text-base font-medium text-white">
-                            Judith Black
-                          </div>
-                          <div className="text-base font-medium text-indigo-200">
-                            CEO, Tuple
-                          </div>
-                        </div>
-                      </div>
-                    </footer>
-                  </blockquote>
-                </div>
-              </section>
-            </div>
-          </SwiperSlide>
-          <SwiperSlide>
-            <div className="bg-[#0b0d33] hover:bg-[#142a5c] border border-[#94f2fc48] rounded">
-              <section>
-                <div className=" md:flex md:flex-col p-8 md:border-r md:border-indigo-900">
-                  <blockquote className="mt-6 md:flex-grow md:flex md:flex-col">
-                    <div className="relative text-lg font-medium text-white md:flex-grow">
-                      <svg
-                        className="absolute top-0 left-0 transform -translate-x-3 -translate-y-2 h-8 w-8 text-indigo-600"
-                        fill="currentColor"
-                        viewBox="0 0 32 32"
-                        aria-hidden="true"
-                      >
-                        <path d="M9.352 4C4.456 7.456 1 13.12 1 19.36c0 5.088 3.072 8.064 6.624 8.064 3.36 0 5.856-2.688 5.856-5.856 0-3.168-2.208-5.472-5.088-5.472-.576 0-1.344.096-1.536.192.48-3.264 3.552-7.104 6.624-9.024L9.352 4zm16.512 0c-4.8 3.456-8.256 9.12-8.256 15.36 0 5.088 3.072 8.064 6.624 8.064 3.264 0 5.856-2.688 5.856-5.856 0-3.168-2.304-5.472-5.184-5.472-.576 0-1.248.096-1.44.192.48-3.264 3.456-7.104 6.528-9.024L25.864 4z"></path>
-                      </svg>
-                      <p className="relative">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Nemo expedita voluptas culpa sapiente alias molestiae.
-                        Numquam corrupti in laborum sed rerum et corporis.
-                      </p>
-                    </div>
-                    <footer className="mt-8">
-                      <div className="flex">
-                        <div className="flex-shrink-0 inline-flex rounded-full border-2 border-white">
-                          <img
-                            className="h-12 w-12 rounded-full"
-                            src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80"
-                            alt=""
-                          />
-                        </div>
-                        <div className="ml-4">
-                          <div className="text-base font-medium text-white">
-                            Judith Black
-                          </div>
-                          <div className="text-base font-medium text-indigo-200">
-                            CEO, Tuple
-                          </div>
-                        </div>
-                      </div>
-                    </footer>
-                  </blockquote>
-                </div>
-              </section>
-            </div>
-          </SwiperSlide>
-          <SwiperSlide>
-            <div className="bg-[#0b0d33] hover:bg-[#142a5c] border border-[#94f2fc48] rounded">
-              <section>
-                <div className=" md:flex md:flex-col p-8 md:border-r md:border-indigo-900">
-                  <blockquote className="mt-6 md:flex-grow md:flex md:flex-col">
-                    <div className="relative text-lg font-medium text-white md:flex-grow">
-                      <svg
-                        className="absolute top-0 left-0 transform -translate-x-3 -translate-y-2 h-8 w-8 text-indigo-600"
-                        fill="currentColor"
-                        viewBox="0 0 32 32"
-                        aria-hidden="true"
-                      >
-                        <path d="M9.352 4C4.456 7.456 1 13.12 1 19.36c0 5.088 3.072 8.064 6.624 8.064 3.36 0 5.856-2.688 5.856-5.856 0-3.168-2.208-5.472-5.088-5.472-.576 0-1.344.096-1.536.192.48-3.264 3.552-7.104 6.624-9.024L9.352 4zm16.512 0c-4.8 3.456-8.256 9.12-8.256 15.36 0 5.088 3.072 8.064 6.624 8.064 3.264 0 5.856-2.688 5.856-5.856 0-3.168-2.304-5.472-5.184-5.472-.576 0-1.248.096-1.44.192.48-3.264 3.456-7.104 6.528-9.024L25.864 4z"></path>
-                      </svg>
-                      <p className="relative">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Nemo expedita voluptas culpa sapiente alias molestiae.
-                        Numquam corrupti in laborum sed rerum et corporis.
-                      </p>
-                    </div>
-                    <footer className="mt-8">
-                      <div className="flex">
-                        <div className="flex-shrink-0 inline-flex rounded-full border-2 border-white">
-                          <img
-                            className="h-12 w-12 rounded-full"
-                            src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80"
-                            alt=""
-                          />
-                        </div>
-                        <div className="ml-4">
-                          <div className="text-base font-medium text-white">
-                            Judith Black
-                          </div>
-                          <div className="text-base font-medium text-indigo-200">
-                            CEO, Tuple
-                          </div>
-                        </div>
-                      </div>
-                    </footer>
-                  </blockquote>
-                </div>
-              </section>
-            </div>
-          </SwiperSlide>
-          <SwiperSlide>
-            <div className="bg-[#0b0d33] hover:bg-[#142a5c] border border-[#94f2fc48] rounded">
-              <section>
-                <div className=" md:flex md:flex-col p-8 md:border-r md:border-indigo-900">
-                  <blockquote className="mt-6 md:flex-grow md:flex md:flex-col">
-                    <div className="relative text-lg font-medium text-white md:flex-grow">
-                      <svg
-                        className="absolute top-0 left-0 transform -translate-x-3 -translate-y-2 h-8 w-8 text-indigo-600"
-                        fill="currentColor"
-                        viewBox="0 0 32 32"
-                        aria-hidden="true"
-                      >
-                        <path d="M9.352 4C4.456 7.456 1 13.12 1 19.36c0 5.088 3.072 8.064 6.624 8.064 3.36 0 5.856-2.688 5.856-5.856 0-3.168-2.208-5.472-5.088-5.472-.576 0-1.344.096-1.536.192.48-3.264 3.552-7.104 6.624-9.024L9.352 4zm16.512 0c-4.8 3.456-8.256 9.12-8.256 15.36 0 5.088 3.072 8.064 6.624 8.064 3.264 0 5.856-2.688 5.856-5.856 0-3.168-2.304-5.472-5.184-5.472-.576 0-1.248.096-1.44.192.48-3.264 3.456-7.104 6.528-9.024L25.864 4z"></path>
-                      </svg>
-                      <p className="relative">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Nemo expedita voluptas culpa sapiente alias molestiae.
-                        Numquam corrupti in laborum sed rerum et corporis.
-                      </p>
-                    </div>
-                    <footer className="mt-8">
-                      <div className="flex">
-                        <div className="flex-shrink-0 inline-flex rounded-full border-2 border-white">
-                          <img
-                            className="h-12 w-12 rounded-full"
-                            src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80"
-                            alt=""
-                          />
-                        </div>
-                        <div className="ml-4">
-                          <div className="text-base font-medium text-white">
-                            Judith Black
-                          </div>
-                          <div className="text-base font-medium text-indigo-200">
-                            CEO, Tuple
-                          </div>
-                        </div>
-                      </div>
-                    </footer>
-                  </blockquote>
-                </div>
-              </section>
-            </div>
-          </SwiperSlide>
+
           <div className="flex justify-end items-center gap-x-4 mt-4">
             <div className="swiper-button-prev w-8 h-8 cursor-pointer flex justify-center items-center bg-[#142a5c] hover:bg-[#02fafe] hover:bg-opacity-70 border border-[#94f2fc48] hover:text-white rounded-full">
               <i class="fa-solid fa-angle-left"></i>

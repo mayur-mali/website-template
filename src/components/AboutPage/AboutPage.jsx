@@ -1,4 +1,5 @@
 import React from "react";
+import GetStartedButton from "../Button/GetStartedButton";
 
 function AboutPage() {
   return (
@@ -9,8 +10,7 @@ function AboutPage() {
             <img
               src="https://plus.unsplash.com/premium_photo-1669686966146-da8d2400de46?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               alt=""
-              srcset=""
-              className="h-[500px] w-full object-cover rounded-lg"
+              className="h-[37rem] w-full object-cover rounded-lg"
             />
           </div>
           <div>
@@ -23,10 +23,10 @@ function AboutPage() {
                   help Every phase of your <br /> bussiness grow
                 </p>
                 <p className="text-gray-500 font-medium">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod
-                  nemo aliquid, illo maxime inventore dolorem nisi ratione
-                  labore accusamus incidunt quibusdam dolore vero vel eum
-                  recusandae voluptatem quo? Quia, incidunt.
+                  Edviron's payment gateway redefines efficiency in fee
+                  collection for schools. Seamlessly secure, it empowers
+                  educational institutions with real-time tracking and
+                  user-friendly interfaces, simplifying financial management
                 </p>
               </div>
               <div className=" grid grid-cols-1 gap-5 sm:grid-cols-2">
@@ -35,7 +35,7 @@ function AboutPage() {
                     <i className="fa-solid fa-check"></i>
                   </div>
                   <p className="text-gray-500 ml-3">
-                    Lorem ipsum dolor sit amet consectetur.
+                    Secure Transactions Always
                   </p>
                 </div>
                 <div className="flex">
@@ -43,7 +43,22 @@ function AboutPage() {
                     <i className="fa-solid fa-check"></i>
                   </div>
                   <p className="text-gray-500 ml-3">
-                    Lorem ipsum dolor sit amet consectetur.
+                    Real-Time Payment Tracking
+                  </p>
+                </div>
+
+                <div className="flex">
+                  <div className="w-10 h-10 flex-none rounded-full bg-white flex justify-center items-center">
+                    <i className="fa-solid fa-check"></i>
+                  </div>
+                  <p className="text-gray-500 ml-3">User-Friendly Interface</p>
+                </div>
+                <div className="flex">
+                  <div className="w-10 h-10 flex-none rounded-full bg-white flex justify-center items-center">
+                    <i className="fa-solid fa-check"></i>
+                  </div>
+                  <p className="text-gray-500 ml-3">
+                    Customizable Fee Structures
                   </p>
                 </div>
                 <div className="flex">
@@ -51,7 +66,21 @@ function AboutPage() {
                     <i className="fa-solid fa-check"></i>
                   </div>
                   <p className="text-gray-500 ml-3">
-                    Lorem ipsum dolor sit amet consectetur.
+                    Automated Financial Reports
+                  </p>
+                </div>
+                <div className="flex">
+                  <div className="w-10 h-10 flex-none rounded-full bg-white flex justify-center items-center">
+                    <i className="fa-solid fa-check"></i>
+                  </div>
+                  <p className="text-gray-500 ml-3">Diverse Payment Options</p>
+                </div>
+                <div className="flex">
+                  <div className="w-10 h-10 flex-none rounded-full bg-white flex justify-center items-center">
+                    <i className="fa-solid fa-check"></i>
+                  </div>
+                  <p className="text-gray-500 ml-3">
+                    Effortless Reconciliation
                   </p>
                 </div>
                 <div className="flex">
@@ -59,31 +88,25 @@ function AboutPage() {
                     <i className="fa-solid fa-check"></i>
                   </div>
                   <p className="text-gray-500 ml-3">
-                    Lorem ipsum dolor sit amet consectetur.
+                    Responsive Customer Support
                   </p>
                 </div>
                 <div className="flex">
                   <div className="w-10 h-10 flex-none rounded-full bg-white flex justify-center items-center">
                     <i className="fa-solid fa-check"></i>
                   </div>
-                  <p className="text-gray-500 ml-3">
-                    Lorem ipsum dolor sit amet consectetur.
-                  </p>
+                  <p className="text-gray-500 ml-3">Transparent Fee Details</p>
                 </div>
                 <div className="flex">
                   <div className="w-10 h-10 flex-none rounded-full bg-white flex justify-center items-center">
                     <i className="fa-solid fa-check"></i>
                   </div>
                   <p className="text-gray-500 ml-3">
-                    Lorem ipsum dolor sit amet consectetur.
+                    Seamless Subscription Management
                   </p>
                 </div>
               </div>
-              <div className="flex items-center">
-                <button className="px-6 py-2 bg-[#02fafe] rounded-lg text-black tracking-wide font-bold">
-                  Get Started
-                </button>
-              </div>
+              <GetStartedButton />
             </div>
           </div>
         </div>

@@ -23,14 +23,14 @@ function Services() {
         </div>
       </div>
       <div className="grid grid-cols-1  md:grid-cols-2 xl:grid-cols-3 gap-8 px-4">
-        <div className="bg-[#0b0d33] hover:bg-[#142a5c] border border-[#94f2fc48] space-y-4 h-auto rounded-lg p-6">
+        <div className="bg-[#0b0d33] hover:bg-[#142a5c] flex flex-col justify-between  border border-[#94f2fc48] space-y-4 h-52 rounded-lg p-6">
           <h3 className="text-white uppercase font-semibold text-xl">
             <i class="fa-solid fa-money-check-dollar text-[#09acbd] mr-4"></i>
-            payment methods
+            Payment Gateway
           </h3>
           <p className="text-gray-500 font-medium">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aperiam,
-            ipsam!
+            Elevate your business with our robust and efficient payment
+            processing solution.
           </p>
           <div>
             <Link to="#" className="text-white">
@@ -38,14 +38,14 @@ function Services() {
             </Link>
           </div>
         </div>
-        <div className="bg-[#0b0d33] hover:bg-[#142a5c] border border-[#94f2fc48] space-y-4 h-auto rounded-lg p-6">
+        <div className="bg-[#0b0d33] hover:bg-[#142a5c] flex flex-col justify-between  border border-[#94f2fc48] space-y-4 h-52 rounded-lg p-6">
           <h3 className="text-white uppercase font-semibold text-xl">
             <i class="fa-solid fa-retweet text-[#09acbd] mr-4"></i>
-            subscriptions
+            Subscription-Based Payments
           </h3>
           <p className="text-gray-500 font-medium">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aperiam,
-            ipsam!
+            Seamlessly manage recurring transactions with our flexible
+            subscription payment system.
           </p>
           <div>
             <Link to="#" className="text-white">
@@ -53,14 +53,14 @@ function Services() {
             </Link>
           </div>
         </div>
-        <div className="bg-[#0b0d33] hover:bg-[#142a5c] border border-[#94f2fc48] space-y-4 h-auto rounded-lg p-6">
+        <div className="bg-[#0b0d33] hover:bg-[#142a5c] flex flex-col justify-between  border border-[#94f2fc48] space-y-4 h-52 rounded-lg p-6">
           <h3 className="text-white uppercase font-semibold text-xl">
             <i class="fa-solid fa-file-shield  text-[#09acbd] mr-4"></i>
-            safe & secure
+            Safe & Secure
           </h3>
           <p className="text-gray-500 font-medium">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aperiam,
-            ipsam!
+            Trust in our top-tier security protocols to ensure the safety of
+            every transaction.
           </p>
           <div>
             <Link to="#" className="text-white">
@@ -68,14 +68,14 @@ function Services() {
             </Link>
           </div>
         </div>
-        <div className="bg-[#0b0d33] hover:bg-[#142a5c] border border-[#94f2fc48] space-y-4 h-auto rounded-lg p-6">
+        <div className="bg-[#0b0d33] hover:bg-[#142a5c] flex flex-col justify-between  border border-[#94f2fc48] space-y-4 h-52 rounded-lg p-6">
           <h3 className="text-white uppercase font-semibold text-xl">
             <i class="fa-solid fa-money-bill text-[#09acbd] mr-4"></i>
-            request a payment
+            Payment Link
           </h3>
           <p className="text-gray-500 font-medium">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aperiam,
-            ipsam!
+            Simplify transactions with customizable payment links for easy and
+            quick payments.
           </p>
           <div>
             <Link to="#" className="text-white">
@@ -83,14 +83,14 @@ function Services() {
             </Link>
           </div>
         </div>
-        <div className="bg-[#0b0d33] hover:bg-[#142a5c] border border-[#94f2fc48] space-y-4 h-auto rounded-lg p-6">
+        <div className="bg-[#0b0d33] hover:bg-[#142a5c] flex flex-col justify-between  border border-[#94f2fc48] space-y-4 h-52 rounded-lg p-6">
           <h3 className="text-white uppercase font-semibold text-xl">
             <i class="fa-solid fa-file-invoice-dollar text-[#09acbd] mr-4"></i>
             payment invoice
           </h3>
           <p className="text-gray-500 font-medium">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aperiam,
-            ipsam!
+            Create and send professional invoices, streamlining your billing
+            process effortlessly.
           </p>
           <div>
             <Link to="#" className="text-white">
@@ -98,14 +98,14 @@ function Services() {
             </Link>
           </div>
         </div>
-        <div className="bg-[#0b0d33] hover:bg-[#142a5c] border border-[#94f2fc48] space-y-4 h-auto rounded-lg p-6">
+        <div className="bg-[#0b0d33] hover:bg-[#142a5c] flex flex-col justify-between  border border-[#94f2fc48] space-y-4 h-52 rounded-lg p-6">
           <h3 className="text-white uppercase font-semibold text-xl">
             <i class="fa-solid fa-headset text-[#09acbd] mr-4"></i>
-            live support
+            support
           </h3>
           <p className="text-gray-500 font-medium">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aperiam,
-            ipsam!
+            Dedicated support at every step, ensuring a smooth experience for
+            you and your customers.
           </p>
           <div>
             <Link to="#" className="text-white">
