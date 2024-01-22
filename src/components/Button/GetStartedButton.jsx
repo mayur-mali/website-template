@@ -120,85 +120,101 @@ function GetStartedButton() {
                 toast.error(error.massage);
               });
           }}
-          className="grid grid-cols-2 gap-4"
+          className="grid grid-cols-1 md:grid-cols-2 gap-4"
         >
-          <Input
-            type="text"
-            name="School Name"
-            add_error={() => {}}
-            onChange={(v) => {
-              setSchoolName(v);
-            }}
-            required
-          />
-          <Input
-            add_error={() => {}}
-            type="text"
-            name="Name"
-            onChange={(v) => {
-              setName(v);
-            }}
-            required
-          />
-          <Input
-            add_error={() => {}}
-            type="number"
-            name="Mobile No."
-            onChange={(v) => {
-              setMobileNo(v);
-            }}
-            required
-          />
-          <Input
-            add_error={() => {}}
-            type="text"
-            name="City"
-            onChange={(v) => {
-              setCity(v);
-            }}
-            required
-          />
-          <Select
-            label="Role"
-            selected={select_role}
-            setSelected={set_select_role}
-            options={rols.map((role) => {
-              return { name: role };
-            })}
-            add_error={() => {}}
-            required
-          />
+          <div className="col-span-2 md:col-span-1 w-full">
+            <Input
+              type="text"
+              name="School Name"
+              add_error={() => {}}
+              onChange={(v) => {
+                setSchoolName(v);
+              }}
+              required
+            />
+          </div>
+          <div className="col-span-2 md:col-span-1 w-full">
+            <Input
+              add_error={() => {}}
+              type="text"
+              name="Name"
+              onChange={(v) => {
+                setName(v);
+              }}
+              required
+            />
+          </div>
+          <div className="col-span-2 md:col-span-1 w-full">
+            <Input
+              add_error={() => {}}
+              type="number"
+              name="Mobile No."
+              onChange={(v) => {
+                setMobileNo(v);
+              }}
+              required
+            />
+          </div>
+          <div className="col-span-2 md:col-span-1 w-full">
+            <Input
+              add_error={() => {}}
+              type="text"
+              name="City"
+              onChange={(v) => {
+                setCity(v);
+              }}
+              required
+            />
+          </div>
+          <div className="col-span-2 md:col-span-1 w-full">
+            <Select
+              label="Role"
+              selected={select_role}
+              setSelected={set_select_role}
+              options={rols.map((role) => {
+                return { name: role };
+              })}
+              add_error={() => {}}
+              required
+            />
+          </div>
 
-          <Select
-            label="State"
-            selected={select_state}
-            setSelected={set_select_state}
-            add_error={() => {}}
-            options={stateOptions.map((state) => {
-              return { name: state };
-            })}
-            required
-          />
-          <Select
-            label="No. Of Students"
-            selected={select_no_of_students}
-            setSelected={set_select_no_of_students}
-            add_error={() => {}}
-            options={noOfStudent.map((studentCount) => {
-              return { name: studentCount };
-            })}
-            required
-          />
-          <Select
-            label="Fees Of School"
-            selected={select_fees_of_school}
-            setSelected={set_select_fees_of_school}
-            add_error={() => {}}
-            options={feeOfSchool.map((fee) => {
-              return { name: fee };
-            })}
-            required
-          />
+          <div className="col-span-2 md:col-span-1 w-full">
+            <Select
+              label="State"
+              selected={select_state}
+              setSelected={set_select_state}
+              add_error={() => {}}
+              options={stateOptions.map((state) => {
+                return { name: state };
+              })}
+              required
+            />
+          </div>
+          <div className="col-span-2 md:col-span-1 w-full">
+            <Select
+              label="No. Of Students"
+              selected={select_no_of_students}
+              setSelected={set_select_no_of_students}
+              add_error={() => {}}
+              options={noOfStudent.map((studentCount) => {
+                return { name: studentCount };
+              })}
+              required
+            />
+          </div>
+          <div className="col-span-2 md:col-span-1 w-full">
+            <Select
+              label="Fees Of School"
+              selected={select_fees_of_school}
+              setSelected={set_select_fees_of_school}
+              add_error={() => {}}
+              options={feeOfSchool.map((fee) => {
+                return { name: fee };
+              })}
+              required
+            />
+          </div>
           <div className="col-span-2 w-full flex justify-center items-center mt-4">
             <button className="bg-blue-500 text-white px-4 py-1.5 rounded-lg w-full max-w-56">
               Submit
